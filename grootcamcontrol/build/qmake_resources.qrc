@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="main.qml">/home/fiym7331/mystuff/bitbucket/grootcam/grootcamcontrol/main.qml</file>
+<file alias="default.ini">/home/fiym7331/mystuff/bitbucket/grootcam/grootcamcontrol/default.ini</file>
+</qresource>
+</RCC>

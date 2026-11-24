@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Secure content"
+AuthUserFile /home/micromo/www/grootcam/.htpasswd
+Require valid-user
